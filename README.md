@@ -1,4 +1,4 @@
-# bisecting-k-means
+# Bisecting k-means algorithm implementation (text clustering)
 
 Implement the bisecting k-Means clustering algorithm for clustering text data.
 
